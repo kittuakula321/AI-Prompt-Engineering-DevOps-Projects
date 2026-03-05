@@ -1,0 +1,9 @@
+Error 1:
+No space left on device
+
+Error 2:
+Permission denied while accessing /var/log/syslog
+
+Error 3:
+nginx service failed to start
+systemctl shows port already in use
