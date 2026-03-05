@@ -1,2 +1,1 @@
-# AI-Prompt-Engineering-DevOps-Projects
-AI-Prompt-Engineering-DevOps-Projects  1_Linux_Error_Diagnosis_AI 2_Secure_AI_System_Persona 3_AI_Log_Analyzer README.md
+
